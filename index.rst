@@ -199,7 +199,7 @@ Périodes de stage :
 
   * 5e année : 5 mois minimum à partir de la mi avril jusqu’au 30 septembre maximum
 
-http://www.esme.fr/entreprises-stages-emplois.html
+http://www.esme.fr/entreprise
 
 
 ISTIC
