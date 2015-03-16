@@ -149,7 +149,7 @@ Stages à temps partiel (facultatifs) :
   * 4e année : de novembre jusqu'au 31 juillet (3 jours : lundi, mardi, mercredi)
   * 5e année : de septembre jusqu'au 28 février (3 jours : lundi, mardi, mercredi)
 
-http://www.epitech.eu/poster-une-offre-de-stage-sct496.html
+http://www.epitech.eu/stages-informatique-entreprises.aspx
 
 
 ESIEA
