@@ -193,6 +193,24 @@ Périodes de stage :
 http://www.esme.fr/entreprise
 
 
+EXIA
+====
+
+http://www.exia.cesi.fr/
+
+« Créer le monde connecté » (Aix-en-Provence, Arras, Bordeaux, Lille,
+Lyon, Nancy, Nice, Orléans, Pau, Reims, Rouen - Mont-St-Aignan,
+Saint-Nazaire, Strasbourg, Toulouse)
+
+Périodes de stage :
+
+* 3e année (stage d'expertise technique) : 3 mois
+* 4e année (stage d'expertise technique) : 5 mois
+* 5e année (stage de fin d'études) : 6 mois
+
+http://www.exia.cesi.fr/programmes-stages-en-entreprises.asp
+
+
 INSA
 ====
 
@@ -201,6 +219,7 @@ http://www.groupe-insa.fr/
 Groupe français d'écoles d'ingénieurs-es (Centre Val de Loire, Lyon, Rennes, Rouen, Strasbourg, Toulouse).
 
 http://www.groupe-insa.fr/recruter
+
 
 ISEP
 ====
