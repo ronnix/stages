@@ -142,6 +142,22 @@ Périodes de stage :
 http://www.epita.fr/entreprises-stages.aspx
 
 
+ESEO
+====
+
+http://www.eseo.fr/
+
+« Grande Ecole d'Ingénieurs généralistes dans les objets et systèmes intelligents » (Angers, Dijon, Paris, Shanghai).
+
+Périodes de stage :
+
+* Stages découverte de l'entreprise (bac+1 et/ou bac+2) : 1 à 2 mois entre juillet et août
+* Stage scientifique et technique (bac+4) : 3 mois entre juin et septembre
+* Stage de fin d'études d'ingénieur (bac+5) : 5 à 7 mois entre mars et septembre
+
+http://www.eseo.fr/entreprises/stages-emplois/
+
+
 ESIEA
 =====
 
