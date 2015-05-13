@@ -179,8 +179,7 @@ ESME Sudria
 
 http://www.esme.fr/
 
-École d'ingénieurs Génie Electrique, l'Electronique, Télécommunications
-et Informatique (Paris, Lille, Lyon).
+« Ingénieurs de tous les possibles » (Lille, Paris, Lyon).
 
 Périodes de stage :
 
@@ -205,7 +204,7 @@ ISEP
 
 http://www.isep.fr/
 
-Institut Supérieur d'Electronique de Paris
+Institut Supérieur d'Électronique de Paris
 
 Filière ingénieur :
 
