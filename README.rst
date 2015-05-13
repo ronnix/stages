@@ -142,6 +142,22 @@ Périodes de stage :
 http://www.epita.fr/entreprises-stages.aspx
 
 
+ESAIP
+=====
+
+http://www.esaip.org/
+
+Formation « Ingénieur(e) du numérique » (Angers).
+
+Périodes de stage :
+
+* 3e année
+* 4e année
+* 5e année (stage de fin d'études) : 6 mois
+
+http://www.esaip.org/formations/ingenieur-informatique/stages
+
+
 ESEO
 ====
 
