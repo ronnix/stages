@@ -5,6 +5,9 @@ Stages informatique
 Cette page liste un ensemble de formations en informatique (écoles,
 universités) qui proposent des stages en entreprise d'au moins 3 mois.
 
+N'hésitez pas à signaler des erreurs en ouvrant une *issue* ou à proposer
+des ajouts et corrections via une *pull request* !
+
 .. contents:: Par ordre alphabétique :
 
 -------------------
