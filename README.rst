@@ -325,6 +325,16 @@ http://www.utt.fr/fr/relations-entreprises/stages.html
 Autres écoles
 -------------
 
+42
+==
+
+http://www.42.fr/
+
+Stages de 4 à 6 mois entre début juillet et fin décembre.
+
+https://entreprises.42.fr
+
+
 EPITECH
 =======
 
