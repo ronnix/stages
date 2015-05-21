@@ -393,7 +393,8 @@ EPITECH
 
 http://www.epitech.eu/
 
-« L'école de l'innovation et de l'expertise informatique » (Paris).
+« L'école de l'innovation et de l'expertise informatique » (Paris, Bordeaux, 
+Lille, Lyon, Marseille, Montpellier, Nancy, Nantes, Nice, Rennes, Strasbourg, Toulouse).
 
 Stages obligatoires :
 
