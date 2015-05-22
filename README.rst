@@ -398,7 +398,7 @@ http://www.epitech.eu/
 Stages obligatoires :
 
 * 1re année : 4 à 6 mois à partir du 1er juillet
-* 3e année : 4 à 6 mois à partir du 1er mai
+* 3e année : 4 à 6 mois à partir du 1er avril
 * 5e année : 6 mois à partir du 1er mars
 
 Stages à temps partiel (facultatifs) :
