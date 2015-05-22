@@ -436,7 +436,7 @@ Périodes de stage :
 * Stages de fin d'études à temps plein: du 1er avril au 30 septembre
 * Stages facultatifs à temps partiel pendant l'année scolaire (pas alternance): un à deux jours par semaine, période négociable entre 1er novembre et le 30 juin
 
-http://www.epsi.fr/Entreprise/Recruter
+http://www.supinfo.com/stage/
 
 
 -------------------------
