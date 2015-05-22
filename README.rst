@@ -422,6 +422,22 @@ Stages de 2 à 6 mois, du niveau bac au niveau bac+5.
 http://www.epsi.fr/Entreprise/Recruter
 
 
+SupInfo
+=======
+
+http://www.supinfo.com/
+
+École d'ingénieurs informaticiens de niveau Bac+5
+
+Périodes de stage :
+
+* Stages d'été à temps plein: entre le 1er juillet et le 31 octobre de chaque année
+* Stages de fin d'études à temps plein: du 1er avril au 30 septembre
+* Stages facultatifs à temps partiel pendant l'année scolaire (pas alternance): un à deux jours par semaine, période négociable entre 1er novembre et le 30 juin
+
+http://www.epsi.fr/Entreprise/Recruter
+
+
 -------------------------
 Formations universitaires
 -------------------------
