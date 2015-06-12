@@ -174,6 +174,19 @@ Périodes de stage :
 http://www.eseo.fr/entreprises/stages-emplois/
 
 
+ÉSI
+===
+
+http://www.heb.be/esi/
+
+« École Supérieure d'Informatique » (Bruxelles).
+
+L'ÉSI propose un cursus de 3 ans, avec une période de stage de 15 semaines
+entre février et juin.
+
+http://www.heb.be/esi/stages_fr.htm
+
+
 ESIEA
 =====
 
