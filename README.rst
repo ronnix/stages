@@ -275,7 +275,7 @@ Institut Supérieur d'Électronique de Paris
 
 Filière ingénieur :
 
-* 4e année : 4 à 6 mois, de juillet à décembre
+* 4e année : 4 à 6 mois, de juillet à décembre ou septembre à janvier
 * 5e année : 5 à 8 mois, de septembre à janvier
 * possibilité de césure (stage d'un an)
 
