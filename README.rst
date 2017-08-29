@@ -82,7 +82,7 @@ ENSIIE
 ======
 
 École nationale supérieure d'informatique pour l'industrie et l'entreprise
-(Évry, Strasbourg).
+(Évry).
 
 http://www.ensiie.fr/
 
